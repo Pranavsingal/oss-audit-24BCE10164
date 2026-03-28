@@ -5,6 +5,8 @@
 echo "================================"
 echo " Open Source Audit — Pranav"
 echo "================================"
+echo "Chosen Software : Python"
+echo "------------------------------------------------"
 
 echo "Kernel  : $(uname -r)"
 echo "User    : $(whoami)"
