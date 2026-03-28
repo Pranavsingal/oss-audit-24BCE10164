@@ -13,6 +13,7 @@ OUTPUT="manifesto_$(whoami).txt"
 
 echo "--------------------------------" > $OUTPUT
 echo "Open Source Manifesto" >> $OUTPUT
+echo "Author: Pranav Singal 24BCE10164" >> "$OUTPUT"
 echo "Date: $DATE" >> $OUTPUT
 echo "--------------------------------" >> $OUTPUT
 
