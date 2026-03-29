@@ -13,7 +13,7 @@ if dpkg -l | grep -q $PACKAGE; then
     echo ""
     dpkg -l | grep $PACKAGE
 else
-    echo "$PACKAGE is NOT installed ❌"
+    echo "$PACKAGE is NOT installed"
 fi
 
 echo ""
