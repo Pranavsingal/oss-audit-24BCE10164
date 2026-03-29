@@ -50,3 +50,6 @@ Requirements
 Linux (WSL Ubuntu)
 Bash shell
 Python installed
+
+##Author
+Pranav Singal
